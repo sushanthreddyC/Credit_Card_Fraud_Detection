@@ -1,4 +1,5 @@
-[[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)](https://img.shields.io/github/license/psvkaushik/Credit_Card_Fraud_Detection?style=plastic)  ![GitHub language count](https://img.shields.io/github/languages/count/psvkaushik/Credit_Card_Fraud_Detection?style=plastic)
+![GitHub](https://img.shields.io/github/license/psvkaushik/Credit_Card_Fraud_Detection?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/psvkaushik/Credit_Card_Fraud_Detection?style=plastic) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/psvkaushik/Credit_Card_Fraud_Detection?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/psvkaushik/Credit_Card_Fraud_Detection?style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/psvkaushik/Credit_Card_Fraud_Detection?color=brightgreen&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/psvkaushik/Credit_Card_Fraud_Detection?style=plastic)
 
 
 
