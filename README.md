@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)  ![GitHub language count](https://img.shields.io/github/languages/count/psvkaushik/Credit_Card_Fraud_Detection?style=plastic)
 
 
 
