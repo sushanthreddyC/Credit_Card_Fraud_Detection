@@ -1,5 +1,5 @@
-![GitHub](https://img.shields.io/github/license/psvkaushik/Credit_Card_Fraud_Detection?color=brightgreen&style=flat) ![GitHub language count] <br/>
-(https://img.shields.io/github/languages/count/psvkaushik/Credit_Card_Fraud_Detection?style=flat) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/psvkaushik/Credit_Card_Fraud_Detection?style=flat) ![GitHub repo size](https://img.shields.io/github/repo-size/psvkaushik/Credit_Card_Fraud_Detection?style=flat)
+![GitHub](https://img.shields.io/github/license/psvkaushik/Credit_Card_Fraud_Detection?color=brightgreen&style=flat)<br/>
+![GitHub language count] (https://img.shields.io/github/languages/count/psvkaushik/Credit_Card_Fraud_Detection?style=flat) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/psvkaushik/Credit_Card_Fraud_Detection?style=flat) ![GitHub repo size](https://img.shields.io/github/repo-size/psvkaushik/Credit_Card_Fraud_Detection?style=flat) <br/>
 ![GitHub contributors](https://img.shields.io/github/contributors/psvkaushik/Credit_Card_Fraud_Detection?color=brightgreen&style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/psvkaushik/Credit_Card_Fraud_Detection?style=flat)
 
 
